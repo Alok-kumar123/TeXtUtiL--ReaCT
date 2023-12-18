@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TeXtUtiL--ReaCT/static/css/main.f855e6bc.css",
+    "main.js": "/TeXtUtiL--ReaCT/static/js/main.1f8e24ab.js",
+    "static/js/787.1937f22b.chunk.js": "/TeXtUtiL--ReaCT/static/js/787.1937f22b.chunk.js",
+    "index.html": "/TeXtUtiL--ReaCT/index.html",
+    "main.f855e6bc.css.map": "/TeXtUtiL--ReaCT/static/css/main.f855e6bc.css.map",
+    "main.1f8e24ab.js.map": "/TeXtUtiL--ReaCT/static/js/main.1f8e24ab.js.map",
+    "787.1937f22b.chunk.js.map": "/TeXtUtiL--ReaCT/static/js/787.1937f22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1f8e24ab.js"
+  ]
+}
