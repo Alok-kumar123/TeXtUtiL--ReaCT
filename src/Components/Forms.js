@@ -89,7 +89,7 @@ export default function Forms(props) {
         <button className="btn btn-primary mx-2"   onClick={handlextraSpace}>remove extra spaces</button>
         <div className="container my-3" style={{color:props.mode==='dark'?'white':'black'}}>
             <h2>Your text Summary</h2>
-            <p>No. of words= {text.length>0?text.split(" ").length:0} and No. of characters= {text.length}</p>
+            <p>No. of words= {text.length>0?text.split(/\s+/).length:0} and No. of characters= {text.length}</p>
             <p>{0.008*text.split(" ").length} minutes to read entire text</p>
             
             <p> No. of Vowels and consonents are: {Vowcons(text)}</p>
